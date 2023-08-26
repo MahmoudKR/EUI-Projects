@@ -6,7 +6,7 @@
  */
 
 #include "MyP_Types.h"
-#include "lcd.h"
+#include "HAL/lcd.h"
 #include "calculator.h"
 
  Int32_t digitC=0;
