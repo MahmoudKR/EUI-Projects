@@ -4,13 +4,13 @@
  *  Created on: Aug 13, 2023
  *      Author: Mahmoud A. Monaim
  */
-#include "tm4c123gh6pm.h"
-#include "bitwise_operations.h"
-#include "Dio.h"
-#include "MyP_Types.h"
-#include "lcd.h"
-#include "key.h"
-#include "calculator.h"
+#include "LIB/tm4c123gh6pm.h"
+#include "LIB/bitwise_operations.h"
+#include "MCAL/Dio.h"
+#include "LIB/MyP_Types.h"
+#include "HAL/lcd.h"
+#include "HAL/key.h"
+#include "HAL/calculator.h"
 
 
 
