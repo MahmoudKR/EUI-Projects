@@ -5,8 +5,8 @@
  *      Author: Mahmoud A. Monaim
  */
 
-#include "MyP_Types.h"
-#include "lcd.h"
+#include "LIB/MyP_Types.h"
+#include "HAL/lcd.h"
 #include "calculator.h"
 
  Int32_t digitC=0;
